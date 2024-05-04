@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F37AD83-3C5D-414E-8657-F4F553D4DF07}|CalculadoraCuotas\\CalculadoraCuotas.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\windowsform2\\calculadoracuotas\\calculadoracuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F37AD83-3C5D-414E-8657-F4F553D4DF07}|CalculadoraCuotas\\CalculadoraCuotas.csproj|solutionrelative:calculadoracuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F37AD83-3C5D-414E-8657-F4F553D4DF07}|CalculadoraCuotas\\CalculadoraCuotas.csproj|C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\calculadoracuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F37AD83-3C5D-414E-8657-F4F553D4DF07}|CalculadoraCuotas\\CalculadoraCuotas.csproj|solutionrelative:calculadoracuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculadoraCuotas||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F37AD83-3C5D-414E-8657-F4F553D4DF07}|CalculadoraCuotas\\CalculadoraCuotas.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\windowsform2\\calculadoracuotas\\calculadoracuotas\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraCuotas",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\CalculadoraCuotas\\CalculadoraCuotas.csproj",
+              "RelativeDocumentMoniker": "CalculadoraCuotas\\CalculadoraCuotas.csproj",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\CalculadoraCuotas\\CalculadoraCuotas.csproj",
+              "RelativeToolTip": "CalculadoraCuotas\\CalculadoraCuotas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-04T18:24:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\CalculadoraCuotas\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraCuotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\CalculadoraCuotas\\Form1.cs",
+              "RelativeToolTip": "CalculadoraCuotas\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:12:54.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\CalculadoraCuotas\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraCuotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\WindowsForm2\\CalculadoraCuotas\\CalculadoraCuotas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraCuotas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:41:58.617Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
