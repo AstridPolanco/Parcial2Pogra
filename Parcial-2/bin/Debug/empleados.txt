@@ -1,0 +1,2 @@
+EmpleadoTiempoCompleto, Ana Ruiz, 2500
+EmpleadoPorHoras, Sofia Lopez, 0
